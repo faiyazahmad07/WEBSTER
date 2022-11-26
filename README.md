@@ -1,5 +1,5 @@
 # WEBSTER
-A modern tool written in python for hunting open redirection
+A modern tool written in python for hunting open redirection!
 Hi everyone! I have written this program with only one aim i.e To increase the chances of getting bugs. Webster is an advanced tool that can fire upto 800+ payload in 3 seconds! Apart from this, Some key features of this tool are:
 
 1. Find Open Redirection on authenticated points: Most of the time, the redirection occurs after authentication. This is where most of the automation tool fails. But fear not! with this tool you can test for open redirection on those authenticated pages by just specifying the cookies. The rest of job will be done by this tool
