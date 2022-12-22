@@ -26,7 +26,7 @@ Hi everyone! I have written this program with only one aim i.e To increase the c
 
 1. -u: Specify the target url(e.g http://testphp.vulnweb.com)
 
-2. -p: Specify the paylaod file
+2. -p: Specify the payload file
 
 3. -w: Add a whitelist domain
 
