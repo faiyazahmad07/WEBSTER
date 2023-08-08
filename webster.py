@@ -133,6 +133,7 @@ class Scanner:
 			if response.status_code in range(400,500):
 				print(Fore.RED +f"Warning: GETTING {response.status_code}")
 				continue
+#AKIAR4YEYRJL6JKBNRGP
 
 Scanner(url,payload_file)
 
